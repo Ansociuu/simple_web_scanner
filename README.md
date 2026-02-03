@@ -61,7 +61,7 @@ pip install -r requirements.txt
 cd scanner
 python scanner.py
 ```
-Chương trình sẽ yêu cầu bạn nhập URL/website cần kiểm tra
+Chương trình sẽ yêu cầu bạn nhập URL/website cần kiểm tra (Có thể sử dụng: testphp.vulnweb.com)
 
 2. Chạy môi trường thử nghiệm cục bộ (`web_test`):
 
