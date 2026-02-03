@@ -48,8 +48,8 @@ simple-web-scanner/
 
 ### Hướng dẫn nhanh 
 ```bash
-git clone https://github.com/Ansociuu/simple-web-scanner.git
-cd simple-web-scanner
+git clone https://github.com/Ansociuu/simple_web_scanner.git
+cd simple_web_scanner
 pip install -r requirements.txt
 ```
 
